@@ -9,6 +9,7 @@ if playing.lower() != "yes":
 print("Okay! Let's play :)")
 score = 0
 
+
 answer = input("What country has the highest life expectancy?")
 if answer.lower() == "hong kong":
     print('Correct!')
